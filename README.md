@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahulninza@gmail.com**
 
-- 📄 Know about my experiences [https://tan-cayla-41.tiiny.site](https://tan-cayla-41.tiiny.site)
+- 📄 Know about my experiences [https://chocolate-birgit-30.tiiny.site](https://chocolate-birgit-30.tiiny.site)
 
 - ⚡ Fun fact **I am really sarcastic.**
 
