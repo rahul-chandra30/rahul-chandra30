@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Chandra</h1>
 <h3 align="center">"Passionate Full Stack Developer on a journey to turn lines of code into meaningful experiences. Building, learning, and evolving one stack at a time. 🚀 Let's collaborate and create something incredible together!"</h3>
 
-- 🔭 I’m currently working on **Threads Clone App**
+- 🔭 I’m currently working on **Evnt-It: Event publishing web-app**: Using **Next JS & Typescript**
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, NodeJs, NextJs and**
 
