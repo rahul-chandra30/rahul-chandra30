@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Evnt-It: Event publishing web-app**: Using **Next JS & Typescript**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, NodeJs, NextJs and**
+- 🌱 I’m currently learning **ReactJs, NodeJs, NextJs & TypeScript**
+
+- 📖 Currently studying for AWS Cloud Practitioner Exam
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
