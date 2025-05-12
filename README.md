@@ -2,7 +2,7 @@
 <h3 align="center">"Passionate Full Stack Developer on a journey to turn lines of code into meaningful experiences. Building, learning, and evolving one stack at a time. 🚀 Let's collaborate and create something incredible together!"</h3>
 
 - # 💫 About Me:
-🔭 I’m currently working on Prep Ace: An AI-powered interview preparation platform.<br><br>🌱 I’m currently learning ReactJs, NodeJs, NextJs & TypeScript<br><br>📖 Currently studying for AWS Cloud Practitioner Exam<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>💬 Ask me about NextJs, ReactJS, JavaScript etc.<br><br>📫 How to reach me rahulninza@gmail.com<br><br>
+🌱 I’m currently learning ReactJs, NodeJs, NextJs & TypeScript<br><br>📖 Currently studying for AWS Cloud Practitioner Exam<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>💬 Ask me about NextJs, ReactJS, JavaScript etc.<br><br>📫 How to reach me rahulninza@gmail.com<br><br>
 
 
 ## 🌐 Socials:
